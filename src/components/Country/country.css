@@ -1,0 +1,14 @@
+.country{
+    background-color: darkslategray;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 16px;
+}
+.visited{
+    background-color: darkslateblue;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-between;
+}
